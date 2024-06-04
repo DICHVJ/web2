@@ -1,0 +1,251 @@
+header{
+    display: flex;
+    height: 55px;
+    background-color: rgb(3, 3, 48);
+    align-items: center;
+    justify-content: space-between;
+    padding: 5px 0px 5px 15px
+}
+
+#h1{
+    border: 1px solid rgb(120, 120, 240);
+    background-color: rgb(94, 94, 253);
+    color: aliceblue;
+    padding: 0px 5px 0px 5px;
+    border-radius: 5px;
+}
+
+#logo{
+    border: 1px solid; width: 1300px; height: 50px;
+    color: blue;
+}
+
+ul{
+    list-style: none;
+    
+}
+
+li{
+    display: inline;
+    justify-content: space-between;
+    padding: 5px 0px 5px 0px;
+}
+
+a{
+    text-decoration: none;
+    padding: 5px 15px 5px 10px;
+    color: aliceblue;
+}
+
+
+.contenedor{
+    width: 100%; 
+    padding: 1px;
+}
+
+.formulario{
+    background-color: rgb(123, 125, 128);
+    width: 250px;
+    height: 650px;
+    float: right;
+    border: 1px solid;
+    border-radius: 8px;
+    padding: 60px 100px 60px 80px;
+    
+}
+
+#uno{
+    position: absolute;
+    top: 62px;
+    color: rgb(247, 102, 35);
+    font-size: xx-large;
+    font-size: 30px;
+    
+}
+#dos{
+    color: rgb(35, 102, 8);
+}
+
+input[type="text"]{
+    font-size: 25px;
+    width: 300px; 
+    padding: 10px;
+}
+
+.input-contenedor{
+    margin-bottom: 10px;
+}
+
+#button{
+    background-color: orangered;
+    border: 1px solid;
+    border-radius: 20px;
+    font-size: 25px;
+    width: 325px; 
+    padding: 10px;
+    position: absolute;
+    right: 150px;
+}
+
+input[type="radio"]{
+    font-size: 25px;
+    width: 20px; 
+    padding: 150px;
+    
+}
+
+#caja{
+    margin-right: 5px;
+    pointer-events: none;
+}
+
+label{
+    font-size: 40px;
+    margin-right: 220px;
+    pointer-events: none;
+    cursor: pointer;
+
+}
+
+.img{
+    width: 60px;
+    float: left;
+    margin-left: 180px;
+}
+
+.comentario{
+    float: left;
+    margin: 20px;
+ font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+footer{
+    display: flex;
+    font-size: 20px;
+    margin-top: 10px;
+    justify-content: center;
+}
+.redes{
+   
+}
+.caja{
+    font-size: xx-large;
+    font-size: 15px;
+    top: 20px;
+    left: 20px;
+}
+
+    
+#fo2{
+    
+    left: 10px;
+    right: 45px;
+    display: block;
+    height: 35px;
+    display: block;
+    width: 35px;
+    text-decoration: none;
+    top: 600px;
+    display: inline;
+}
+#fo3{
+    right: 35px;
+    height: 35px;
+    display: block;
+    width: 35px;
+    text-decoration: none;
+    top: 600px;
+    
+    display: inline;
+}
+#fo4{
+    right: 35px;
+    height: 35px;
+    display: block;
+    width: 35px;
+    text-decoration: none;
+    top: 600px;
+    
+    display: inline
+}
+
+#caja1{
+    align-items: center;
+    text-align: center;
+}
+#caja2{
+    align-items: center;
+    text-align: center;
+    left: 450px;
+}
+#caja3{
+    align-items: center;
+    text-align: center;
+}
+#bene1{
+    align-items: center;
+    text-align: center;
+    left: 650px;
+    font-size: xx-large;
+    font-size: 16px;
+}
+#bene2{
+    align-items: center;
+    text-align: center;
+    left: 650px;
+    font-size: xx-large;
+    font-size: 16px;
+}
+#bene3{
+    align-items: center;
+    text-align: center;
+    left: 650px;
+    font-size: xx-large;
+    font-size: 16px;
+}
+#bene4{
+    align-items: center;
+    text-align: center;
+    left: 650px;
+    font-size: xx-large;
+    font-size: 16px;
+}
+#video{
+    
+    height: 400px;
+    width: 400px;}
+
+.formulario{
+    height: 415px;
+    width: 600px;
+    padding:  10px 10px 5px 5px;
+    position: absolute;
+    left: 620px;
+}
+#foto5{
+    height: 350px;
+    width: 600px;
+}
+#contenedor3{
+    position: absolute;
+    width: 550px;
+    height: 30px;
+    top: 150px;
+}
+#contenedor3{
+    position: absolute;
+    width: 550px;
+    height: 30px;
+    top: 150px;
+}
+#contenedor2{
+   
+    width: 550px;
+    height: 30px;
+    
+}
+#contenedor1{
+    
+    width: 550px;
+    height: 30px;
+   top: ;
+}
